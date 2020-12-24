@@ -1,0 +1,9 @@
+Package: com.shepgoba.batterypercent13
+Name: BatteryPercent13
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: shepgoba
+Author: shepgoba
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
